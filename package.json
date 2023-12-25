@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hkirat/real-time-chat.git"
+    "url": "git+https://github.com/Ahd-Kabeer-Hadi/real-time-chat"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["websocket", "chat", "nodejs", "typescript"],
+  "author": "Ahd Kabeer Hadi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hkirat/real-time-chat/issues"
+    "url": "https://github.com/Ahd-Kabeer-Hadi/real-time-chat/issues"
   },
-  "homepage": "https://github.com/hkirat/real-time-chat#readme",
+  "homepage": "https://github.com/Ahd-Kabeer-Hadi/real-time-chat#readme",
   "dependencies": {
     "@types/websocket": "^1.0.10",
-    "typescript": "^5.3.3",
-    "websocket": "^1.0.34"
+    "websocket": "^1.0.34",
+    "zod": "^3.22.4"
   }
 }
